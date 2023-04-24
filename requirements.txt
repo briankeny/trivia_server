@@ -1,5 +1,0 @@
-git clone https://github.com/kelektiv/node.bcrypt.js.git
-cd node.bcrypt.js
-npm install
-node-gyp configure
-node-gyp build
